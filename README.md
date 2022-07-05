@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enzosaitta and I'm from Argentina 🇦🇷. I'm Fullstack web development student at Apx School and study English. 
-- 👀 I’m interested in technology’s which drives me to constantly train myself.
-- 🌱 I’m currently learning JavaScript and how to write more clean code.
-- 💞️ I’m looking to collaborate on in a company that allows me to grow as a person and professional.
+- 👀 I’m interested in technology’s which drives me to constantly training myself.
+- 🌱 I’m currently learning JavaScript and how to write clarer code.
+- 💞️ I’m looking forwad to collaborating in a company that allows me to grow as a person and professional.
 - 📫 My address is saitta.enzo93@gmail.com.
